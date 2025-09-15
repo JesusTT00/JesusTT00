@@ -1,18 +1,9 @@
-<h1 align="center">👋 Hola, Soy Jesus Antonio Tornez Tolentino</h1>
+<h1 align="center">
+  👋 Hola, Soy Jesus Antonio Tornez Tolentino
+</h1>
 
 <p align="center">
-  <!-- Negro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&color=000000&center=true&vCenter=true&width=600&lines=Ritual+Maldito+Amplificador;+++++++++++++++++++++++">
-  <!-- Azul -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&color=0000FF&center=true&vCenter=true&width=600&lines=;Azul;++++++++++++++++++++++++">
-  <!-- Negro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&color=000000&center=true&vCenter=true&width=600&lines=+++++++++++++++++++;Ritual+Maldito+Inverso">
-  <!-- Rojo -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&color=FF0000&center=true&vCenter=true&width=600&lines=++++++++++++++++++++++;Rojo">
-  <!-- Negro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&color=000000&center=true&vCenter=true&width=600&lines=++++++++++++++++++++++++++++++++++++;Vacio">
-  <!-- Púrpura -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&color=800080&center=true&vCenter=true&width=600&lines=+++++++++++++++++++++++++++++++++++++;Púrpura">
+  <img src="ritual.svg" alt="Ritual Animado" width="700">
 </p>
 
 	
