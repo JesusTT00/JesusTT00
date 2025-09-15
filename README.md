@@ -13,9 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/a8fb6660-c451-4292-b2a4-4d786e5fb3f3" width="250px">
-</p>
+<img src="https://github.com/user-attachments/assets/a8fb6660-c451-4292-b2a4-4d786e5fb3f3" width="250px" style="float:right; margin: 0 0 10px 10px;">
 
 - Estudiante de Ingeniería en Mecatrónica
 - La música a todo volumen
@@ -23,7 +21,6 @@
 - Robótica, ahí voy
 - ..- - --
 
-<br><br>
 
 
 
