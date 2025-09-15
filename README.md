@@ -1,13 +1,20 @@
-<h1 align="center"><b>Hola, Soy Jesus Antonio Tornez Tolentino </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center">
+  <b>Hola, Soy Jesus Antonio Tornez Tolentino </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=000000&size=25&center=true&vCenter=true&width=600&height=100&lines=Ritual+Maldito+Amplificador:+Azul+🔵;Ritual+Maldito+Inverso:+Rojo+🔴;Vacío...;PÚRPURA+🟣&duration=2500">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=000000&size=25&center=true&vCenter=true&width=600&height=100&lines=Ritual+Maldito+Amplificador:+Azul+🔵;Ritual+Maldito+Inverso:+Rojo+🔴;Vacío...;PÚRPURA+🟣&duration=2000">
   </a>
 </p>
 
 <br>
 
+<!-- GIF debajo de todo el contenido -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1163c1b9-8f4c-490d-ac46-1882de7a6ca8" width="300">
+</p>
 
 
 	
