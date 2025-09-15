@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+  <style>
+    text {
+      font-family: "Times New Roman", serif;
+      font-size: 32px;
+      text-anchor: middle;
+      opacity: 0;
+      font-weight: bold;
+    }
+  </style>
+
+  <!-- 0s–3s: Ritual Maldito Amplificador -->
+  <text x="50%" y="50%" fill="black">
+    Ritual Maldito Amplificador
+    <set attributeName="opacity" to="1" begin="0s" dur="3s" />
+    <set attributeName="opacity" to="0" begin="3s" />
+  </text>
+
+  <!-- 1.5s–3s: Azul -->
+  <text x="50%" y="75%" fill="blue">
+    Azul
+    <set attributeName="opacity" to="1" begin="1.5s" dur="1.5s" />
+    <set attributeName="opacity" to="0" begin="3s" />
+  </text>
+
+  <!-- 3s–6s: Ritual Maldito Inverso -->
+  <text x="50%" y="50%" fill="black">
+    Ritual Maldito Inverso
+    <set attributeName="opacity" to="1" begin="3s" dur="3s" />
+    <set attributeName="opacity" to="0" begin="6s" />
+  </text>
+
+  <!-- 4.5s–6s: Rojo -->
+  <text x="50%" y="75%" fill="red">
+    Rojo
+    <set attributeName="opacity" to="1" begin="4.5s" dur="1.5s" />
+    <set attributeName="opacity" to="0" begin="6s" />
+  </text>
+
+  <!-- 6s–9s: Vacío -->
+  <text x="50%" y="50%" fill="black">
+    Vacío
+    <set attributeName="opacity" to="1" begin="6s" dur="3s" />
+    <set attributeName="opacity" to="0" begin="9s" />
+  </text>
+
+  <!-- 7.5s–9s: Púrpura -->
+  <text x="50%" y="75%" fill="purple">
+    Púrpura
+    <set attributeName="opacity" to="1" begin="7.5s" dur="1.5s" />
+    <set attributeName="opacity" to="0" begin="9s" />
+  </text>
+
+  <!-- Loop infinito -->
+  <animate attributeName="visibility" from="hide" to="hide" begin="9s" dur="0.1s" repeatCount="indefinite"/>
+</svg>
