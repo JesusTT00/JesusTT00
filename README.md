@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=000000&size=25&center=true&vCenter=true&width=600&height=100&lines=Ritual+Maldito+Amplificador:+Azul+🔵;Ritual+Maldito+Inverso:+Rojo+🔴;Vacío...;PÚRPURA+🟣&duration=2100">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Ritual+Maldito+Amplificador:+Azul+🔵;Ritual+Maldito+Inverso:+Rojo+🔴;Vacío...;PÚRPURA+🟣&duration=2100">
   </a>
 </p>
 
@@ -18,17 +18,17 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
+<h2 style="font-size:40px;">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> ✅ Sobre mí
+</h2>
 
-<img src="https://github.com/user-attachments/assets/a8fb6660-c451-4292-b2a4-4d786e5fb3f3" width="250px" style="float:right; margin: 0 0 10px 10px;">
+
 
 - Estudiante de Ingeniería en Mecatrónica
 - La música a todo volumen
 - Desarrollador de LOOPS
 - Robótica, ahí voy
 - ..- - --
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
