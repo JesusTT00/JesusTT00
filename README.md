@@ -14,8 +14,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <p align="right">
-  <img src="./assets/gojo.gif" width="250px">
+  <img src="https://github.com/JesusTT00/JesusTT00/main/assets/gojo.gif" width="250px">
 </p>
+
 
 
 - Estudiante de Ingeniería en Mecatrónica
