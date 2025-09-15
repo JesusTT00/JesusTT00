@@ -3,11 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Ritual+Maldito+Amplificador:+Azul+🔵;Ritual+Maldito+Inverso:+Rojo+🔴;Vacío...;PÚRPURA+🟣&duration=2100">
-  </a>
-</p>
+
 
 <br>
 
@@ -21,7 +17,7 @@
 
 
 - Estudiante de Ingeniería en Mecatrónica
-- La música a todo volumen
+- La música a todo volumen 
 - Desarrollador de LOOPS
 - Robótica, ahí voy
 - ..- - --
@@ -143,7 +139,11 @@
 <br>
 
 <div align='center'>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Ritual+Maldito+Amplificador:+Azul+🔵;Ritual+Maldito+Inverso:+Rojo+🔴;Vacío...;PÚRPURA+🟣&duration=2100">
+  </a>
+</p>
 <!-- GIF debajo de todo el contenido -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1163c1b9-8f4c-490d-ac46-1882de7a6ca8" width="800">
