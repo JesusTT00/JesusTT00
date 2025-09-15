@@ -14,10 +14,8 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <p align="right">
-  <img src="https://github.com/JesusTT00/JesusTT00/main/assets/gojo.gif" width="250px">
+  <img src="https://github.com/user-attachments/assets/a8fb6660-c451-4292-b2a4-4d786e5fb3f3" width="250px">
 </p>
-
-
 
 - Estudiante de Ingeniería en Mecatrónica
 - La música a todo volumen
@@ -26,6 +24,7 @@
 - ..- - --
 
 <br><br>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
