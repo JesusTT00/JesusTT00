@@ -14,8 +14,9 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <p align="right">
-  <img src="https://media.tenor.com/6cB00Fl1QXYAAAAC/gojo-satoru-gojo.gif" width="250px">
+  <img src="./assets/gojo.gif" width="250px">
 </p>
+
 
 - Estudiante de Ingeniería en Mecatrónica
 - La música a todo volumen
